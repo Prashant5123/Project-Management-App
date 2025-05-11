@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917192798201",
+    "project_id": "project-management-b27c8",
+    "storage_bucket": "project-management-b27c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917192798201:android:b979a61fb4d8732a579728",
+        "android_client_info": {
+          "package_name": "com.example.mangmentv103"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6_PlT0zmmS3Kb_rGD1zXBnjZcVO1bp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
